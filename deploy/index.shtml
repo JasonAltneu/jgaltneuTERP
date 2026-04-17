@@ -9,9 +9,9 @@
 
 <body>
     <p><strong>Jason Altneu</strong></p>
-    <p>GitHub Location: </p>
-    <p>Render.com Location: </p>
-    <p>Clearing Database Movies Endpoint:</p>
-    <p>Inserting Movies Endpoint</p>
-    <p>List Movies Endpoint:</p>
+    <p>GitHub Location: <a href="https://github.com/JasonAltneu/jgaltneuTERP"></a></p>
+    <p>Render.com Location: <a href="https://jgaltneuterp.onrender.com/"></a></p>
+    <p>Clearing Database Movies Endpoint: <a href="https://jgaltneuterp.onrender.com/clearCollection"></a></p>
+    <p>Inserting Movies Endpoint: <a href="https://jgaltneuterp.onrender.com/insertMovies"></a></p>
+    <p>List Movies Endpoint: <a href="https://jgaltneuterp.onrender.com/listMovies"></a></p>
 </body>
